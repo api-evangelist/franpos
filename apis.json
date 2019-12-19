@@ -1,0 +1,43 @@
+{
+    "name": "Franpos",
+    "description": "<p>Franpos is a cloud-based Point of Sale application that runs on Apple and Windows devices. It was designed to help single and multi-location businesses sell more and better connect with their loyal customers. iConnect combines a sexy front end experience with sophisticated back office marketing and management tools. The company&rsquo;s passion is to empower growing businesses with simple, beautiful software.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/franpos.png",
+    "tags": [
+        "contacts",
+        "have api",
+        "point of sale",
+        "pos",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/franpos\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Franpos",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/franpos.png",
+            "humanURL": "http:\/\/www.geticonnectpos.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/franpos-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.geticonnectpos.com\/api"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.geticonnectpos.com"
+        }
+    ]
+}
